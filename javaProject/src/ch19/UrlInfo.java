@@ -3,6 +3,7 @@ package ch19;
 import java.net.URL;
 
 public class UrlInfo {
+	//깃에 올려서 확인해볼 주석
 	public static void main(String[] args) {
 		try {
 			//new URL(url주소) url문자열을 URL클래스 형식으로 변환
