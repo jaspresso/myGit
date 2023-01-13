@@ -12,6 +12,7 @@ public class LanInfo {
 			while (enu.hasMoreElements()) {//다음 요소가 있으면 true
 				NetworkInterface net=enu.nextElement();//다음요소진행
 				System.out.println(net);
+				System.out.println("깃 테스트용");
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
