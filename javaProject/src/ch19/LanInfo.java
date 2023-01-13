@@ -13,6 +13,7 @@ public class LanInfo {
 				NetworkInterface net=enu.nextElement();//다음요소진행
 				System.out.println(net);
 				System.out.println("깃 테스트용");
+				System.out.println("두번째 테스트");
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
